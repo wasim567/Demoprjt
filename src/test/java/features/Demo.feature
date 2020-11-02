@@ -21,6 +21,7 @@ And clicks on login button
 Then user is sucessfully logged into creditcard site
 When user clicks on creditcard tab
 Then user is able to see the creditcard balance
+And able to git
 
 @RegTest
 Scenario: User registering in creditcard application
@@ -32,6 +33,7 @@ When user clicks on register button and enters the following details
 
 And clicks on submit button
 Then user is sucessfully logged into creditcard site
+
 
 @SmokeTest
 Scenario Outline: User is trying with multiple logins
