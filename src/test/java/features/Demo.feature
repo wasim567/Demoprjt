@@ -23,7 +23,7 @@ When user clicks on creditcard tab
 Then user is able to see the creditcard balance
 And able to git
 And user is able to git2
-And new branch created
+And new branch created and uploded
 
 
 @RegTest
